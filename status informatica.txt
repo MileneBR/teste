@@ -1,0 +1,15 @@
+
+comecei aqui:
+-----------------------
+p_get_vtex_inventory_reservations 120 Properties
+get_vtex_inventory_reservations Properties
+
+
+p_main_employer_stock --> p_main_stock --> p_get_vtex_inventory_reservations_parallel** --> get_vtex_inventory_reservations** 
+
+
+p_main_employer_stock_update --> 
+p_main_employer_ticket_update --> P_MAIN_STOCK QUE CHAMA
+
+parei aqui --->>>>   p_post_hana_stock---------------4 d 6 
+
